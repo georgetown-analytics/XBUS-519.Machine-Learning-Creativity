@@ -38,3 +38,9 @@ Once you've installed FluidSynth:
     $ pip install magenta jupyter python-rtmidi
 
 Or alternatively you can install all the dependencies using `pip install -r requirements.txt`. This may take some time, but after install you should be able to run the `music.ipynb` notebook.
+
+
+## Workshop 2: Deep Dream and Lucid
+
+- [DeepDream TensorFlow](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/deepdream.ipynb)
+- [TensorFlow Lucid](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/tutorial.ipynb)
